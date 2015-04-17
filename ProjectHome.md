@@ -1,0 +1,1 @@
+Plugin para crear Dialogos de historieta en GIMP
